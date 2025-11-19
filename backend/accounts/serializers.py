@@ -20,5 +20,4 @@ class UserSerializer(serializers.ModelSerializer):
             validated_data['password']
         )
         return user
-
     

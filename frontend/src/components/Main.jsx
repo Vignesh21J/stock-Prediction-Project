@@ -14,7 +14,7 @@ const Main = () => {
                     It forecasts future stock prices by analyzing 100-days and 200-days moving averages, 
                     essential indicators widely used by stock analysts to inform trading and investment decisions.
                 </p>
-                <Button text='Login' class='btn-outline-info' />
+                <Button text='Login' url='/login' class='btn-outline-info' />
                 
             </div>
         </div>
