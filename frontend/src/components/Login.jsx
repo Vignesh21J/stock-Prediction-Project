@@ -47,7 +47,7 @@ const Login = () => {
             console.log('Login successful');
             setIsLoggedIn(true);
 
-            navigate('/')
+            navigate('/dashboard')
         }
         
         
