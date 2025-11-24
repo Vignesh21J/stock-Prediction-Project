@@ -148,3 +148,22 @@ SIMPLE_JWT = {
     "ACCESS_TOKEN_LIFETIME": timedelta(minutes=15),
     "REFRESH_TOKEN_LIFETIME": timedelta(days=1),
 }
+
+# Media Files Configuration
+MEDIA_URL = '/media/'                  # MEDIA_URL is just the URL prefix your browser uses to access files
+MEDIA_ROOT = BASE_DIR / 'media'        # MEDIA_ROOT is an absolute path on your system
+
+
+
+
+
+CACHES = {
+    "default": {
+        "BACKEND": "django_redis.cache.RedisCache",
+        "LOCATION": "redis://127.0.0.1:6379/1",
+        "OPTIONS": {
+            "CLIENT_CLASS": "django_redis.client.DefaultClient",
+        }
+    }
+}
+
