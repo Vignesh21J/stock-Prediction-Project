@@ -27,7 +27,7 @@ This project demonstrates **ML evaluation**, **visual insights**, and a **full-s
 ---
 
 ### 📉 Prediction Page — Graph Outputs  
-<img src="./frontend/src/assets/screenshots/prediction_page_ui2.jpg" width="100%" />
+<img src="./frontend/src/assets/screenshots/prediction_page_ui_2.jpg" width="100%" />
 
 ---
 
