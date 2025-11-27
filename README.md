@@ -14,29 +14,26 @@ It only predicts the **known test portion (30%)** of historical data to evaluate
 
 This project demonstrates **ML evaluation**, **visual insights**, and a **full-stack architecture**, not real-time stock forecasting.
 
----
+## 🖼️ Screenshots
 
-# 🖼️ Screenshots
-
-## 🏠 Homepage
-<img src="./screenshots/HomePage.jpg" width="100%" />
+### 🏠 Homepage  
+<img src="./frontend/src/assets/screenshots/HomePage.jpg" width="100%" />
 
 ---
 
-## 📊 Prediction Page — User Input UI
-<img src="./screenshots/prediction_page_ui.jpg" width="100%" />
+### 📊 Prediction Page — User Input UI  
+<img src="./frontend/src/assets/screenshots/prediction_page_ui.jpg" width="100%" />
 
 ---
 
-## 📉 Prediction Page — Graph Outputs
-<img src="./screenshots/prediction_page_ui2.jpg" width="100%" />
+### 📉 Prediction Page — Graph Outputs  
+<img src="./frontend/src/assets/screenshots/prediction_page_ui2.jpg" width="100%" />
 
 ---
 
-## ⚡ Redis Cache Workflow (Terminal Output)
-<img src="./screenshots/cache_workflow_terminal.jpg" width="100%" />
+### ⚡ Redis Cache Workflow (Terminal Output)  
+<img src="./frontend/src/assets/screenshots/cache_workflow_terminal.jpg" width="100%" />
 
----
 
 # 🚀 Features
 
