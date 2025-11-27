@@ -5,7 +5,7 @@ const Main = () => {
   return (
     <>
         <div className="container">
-            <div className="p-5 text-center bg-light-dark rounded">
+            <div className="p-5 text-center rounded bg-light-dark">
 
                 <h1 className='text-light'>Stock Prediction Portal</h1>
                 <p className='text-light lead'>

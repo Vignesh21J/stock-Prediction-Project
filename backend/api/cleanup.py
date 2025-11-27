@@ -17,7 +17,7 @@ def delete_old_plots(ticker):
 
         for prefix in prefixes:
 
-            if file_name.startsWith(prefix) and file_name.endswith(".png"):
+            if file_name.startswith(prefix) and file_name.endswith(".png"):
                 file_path = os.path.join(media_path, file_name)
 
                 try:
